@@ -11,7 +11,7 @@
 .online{
     display: flex;
     width: 10px;
-    height: 10px;
+    height: 11px;
     background-color: red;
     border-radius: 50%;
     align-items: center;
@@ -20,7 +20,7 @@
 .offline{
     display: inline-block;
         width: 10px;
-        height: 10px;
+        height: 11px;
         background-color: green;
         border-radius: 50%;
         align-items: center;
